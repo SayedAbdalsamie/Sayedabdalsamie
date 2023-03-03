@@ -1,5 +1,8 @@
-### Hi there 👋
-
+## Hi there 👋
+###🔭 I’m currently working on studty progreming
+### I’m currently learning egypt
+###📫 How to reach me: with my email
+abonars30@gmail.com
 <!--
 #### i am  software devlopement student
 
