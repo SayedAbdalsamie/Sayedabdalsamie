@@ -1,8 +1,8 @@
 ## Hi there 👋
-i am  software devlopement student
-🔭 I’m currently working on studty progreming
- I’m currently learning java 
-📫 How to reach me:  can with my email
+###i am  software devlopement student
+###🔭 I’m currently working on studty progreming
+### I’m currently learning java 
+###📫 How to reach me:  can with my email
 abonars30@gmail.com
 <!--
 #### i am  software devlopement student
