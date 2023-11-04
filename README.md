@@ -1,7 +1,7 @@
 ## Hi there 👋
 - i am  software devlopement student
 - 🔭 I’m currently working on studty progreming
--  I’m currently learning java 
+-  I’m currently learning python and ai (machine learning)
 - 📫 How to reach me:  can with my email
 abonars30@gmail.com
 
